@@ -23,7 +23,7 @@
 
 ## Getting Started
 
-**Official Discord**: [Join Here](https://discord.gg/)
+**Official Discord**: [Join Here](https://discord.gg/eX3smYUgSX)
 
 ## Setup Instructions
 
