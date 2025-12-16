@@ -3,9 +3,11 @@
 
 **This version comes with support for:**
 
-- Laravel 10
-- PHP 8.2+
-- Node.js
+- Laravel 7
+- PHP 7.3
+- Node.js 16
+- PM2
+- Redis
 
 **Also includes plugin support for:**
 
