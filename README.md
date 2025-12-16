@@ -1,6 +1,8 @@
 # Goldsvet Open Source
 **Last Update : 2025**
 
+<img width="522" height="1050" alt="ALEXAND 171" src="https://github.com/user-attachments/assets/3d87bc12-c789-4eab-962b-6bddf3522529" />
+
 **This version comes with support for:**
 
 - Laravel 7
